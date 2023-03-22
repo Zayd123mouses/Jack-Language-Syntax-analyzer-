@@ -1,6 +1,6 @@
-﻿# Jack-Language-Compiler
+﻿# Jack-Language-Syntax analyzer 
 
-Jack language compiler for nand2tetris project 10
+Jack language Syntax analyzer for nand2tetris project 10
 
 # Usage
 ```http
